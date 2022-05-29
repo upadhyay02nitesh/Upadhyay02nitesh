@@ -4,7 +4,7 @@
   <img src=""C:\Users\nitrsh\Downloads\Nitesh1.jpg"" width="350" title="hover text">
 
 </p>
-utm_content=DAFCDcfTbB8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="50" height="60">
+
 
 <h3 align="center">A passionate Backend Developer from India</h3>
 
