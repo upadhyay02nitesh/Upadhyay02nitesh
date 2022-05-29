@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nitesh Upadhyay</h1>
-<img src="https://www.canva.com/design/DAFCDcfTbB8/fHiMGmYVR023nmeLLRNobw/edit?utm_content=DAFCDcfTbB8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="500" height="600">
+<img src="https://www.canva.com/design/DAFCDcfTbB8/fHiMGmYVR023nmeLLRNobw/edit?utm_content=DAFCDcfTbB8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="50" height="60">
 
 <h3 align="center">A passionate Backend Developer from India</h3>
 
