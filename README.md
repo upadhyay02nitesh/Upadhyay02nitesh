@@ -1,4 +1,11 @@
+<video width="500px" height="500px" 
+        controls="controls"/> 
+          
+        <source src="nitesh.mp4" 
+            type="video/mp4"> 
+    </video>
 <h1 align="center">Hi 👋, I'm Nitesh Upadhyay</h1>
+
 <h3 align="center">A passionate Backend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upadhyay02nitesh&label=Profile%20views&color=0e75b6&style=flat" alt="upadhyay02nitesh" /> </p>
