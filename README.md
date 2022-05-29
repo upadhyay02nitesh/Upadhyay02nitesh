@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nitesh Upadhyay</h1>
+<img src="nitesh1.jpg" alt="Girl in a jacket" width="500" height="600">
 
 <h3 align="center">A passionate Backend Developer from India</h3>
 
