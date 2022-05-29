@@ -1,11 +1,4 @@
-
 <h1 align="center">Hi 👋, I'm Nitesh Upadhyay</h1>
-<p align="center">
-  <img src=""C:\Users\nitrsh\Downloads\Nitesh1.jpg"" width="350" title="hover text">
-
-</p>
-
-
 <h3 align="center">A passionate Backend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upadhyay02nitesh&label=Profile%20views&color=0e75b6&style=flat" alt="upadhyay02nitesh" /> </p>
