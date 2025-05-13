@@ -37,7 +37,7 @@
 </ul>
 
 <h3>Professional Summary:</h3>
-<p>1 Year of experience in IT Industry, currently working with Tata Consultancy Services as a Software Developer. Experienced in Python, Flask, MySQL, Generative AI, AWS, and DevOps practices.</p>
+<p>1.5 Year of experience in IT Industry, currently working with Tata Consultancy Services as a Software Developer. Experienced in Python, FastAPI, MySQL, Generative AI, AWS, and DevOps practices.</p>
 
 <h3>Skills:</h3>
-<p>Python, SQL, Flask, Django, AWS, Azure Fundamentals, MySQL, PostgreSQL, MongoDB, Linux, Docker, Jenkins, Git, Agile, Microservices, System Design, and more.</p>
+<p>Python,AI/ML, SQL,FastAPI Flask, Django, AWS, Azure Fundamentals, MySQL, PostgreSQL, MongoDB, Linux, Docker, Jenkins, Git, Agile, Microservices, System Design, and more.</p>
