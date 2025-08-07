@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitesh Upadhyay</h1>
-<h3 align="center">AI Solutions Engineer | Python Specialist | Cloud Architect</h3>
+<h3 align="center">AI Solutions Engineer | Python Specialist | Cloud developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=upadhyay02nitesh&label=Profile+Views&color=blue&style=flat-square" alt="Profile views" />
@@ -29,9 +29,9 @@ class Developer:
         self.role = "Software Developer @ TCS"
         self.expertise = [
             "Generative AI Solutions",
-            "Cloud Architecture",
+            "Cloud development",
             "Backend Systems",
-            "Data Pipelines"
+            "Agentic AI"
         ]
         self.passion = "Building intelligent systems that solve real-world problems"
         
@@ -53,17 +53,17 @@ class Developer:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7348FF?style=for-the-badge&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=ai&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6D70?style=for-the-badge&logo=vectorlogo&logoColor=white)
 
 ## 💼 Professional Journey
@@ -91,6 +91,12 @@ class Developer:
 - Deployed serverless backend with Lambda + API Gateway
 - Streamlit UI hosted on S3 for instant resume generation
 
+### Candidate Follow-up Workflow (LangGraph)
+- Built an autonomous agent using LangGraph to handle candidate follow-ups
+- The agent checks interview outcomes, composes personalized feedback, and schedules next steps
+- Integrated with email API and calendar tools (e.g., Google Calendar) for automated communication
+- Uses retries and conditional branches to handle missing data or delayed feedback loops
+
 ### Multi-Agent Project Assistant (CrewAI)
 - Autonomous agents for project management
 - Researcher Agent: Web search and data collection
@@ -116,7 +122,7 @@ class Developer:
 
 ## 🎓 Education & Certifications
 - **MCA - LNCT, Bhopal (CGPA: 8.25)** • 2021-2023
-- **AWS Certified Cloud Practitioner** • Validation: a69da2bee6044355978940fdf061f108
+- **AWS Certified Cloud Practitioner** • 
 - **GenAI Specialization - Google Cloud**
 
 ## 📬 Let's Connect
